@@ -1,0 +1,25 @@
+[{
+    "country_id": 1,
+    "name": "Aruba",
+    "area": "193.00",
+    "national_day": null,
+    "country_code2": "AW",
+    "country_code3": "ABW",
+    "region_id": 1,
+    "year": 1993,
+    "population": 72504,
+    "gdp": 1082979708
+  },
+  {
+    "country_id": 1,
+    "name": "Aruba",
+    "area": "193.00",
+    "national_day": null,
+    "country_code2": "AW",
+    "country_code3": "ABW",
+    "region_id": 1,
+    "year": 1993,
+    "population": 72504,
+    "gdp": 1082979708
+  }
+]

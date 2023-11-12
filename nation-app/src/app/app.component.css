@@ -1,0 +1,19 @@
+.activebutton{
+    color:red;
+}
+.ui-fix {
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    font-size: 26px;
+    background-color: lightblue;
+}
+
+nav {
+    padding: 10px;
+    background-color: lightgray;
+}
+
+a.button {
+    margin: 10px;
+}

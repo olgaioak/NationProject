@@ -1,0 +1,13 @@
+p {
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+div.box {
+    background-color: lightgrey;
+    width: 100px;
+    border: 5px solid grey;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
